@@ -10,4 +10,3 @@ function Post({author, body} : { author: string; body: string }) {
 }
 
 export default Post;
-git push -u origin main
